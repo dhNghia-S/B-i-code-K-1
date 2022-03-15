@@ -1,0 +1,9 @@
+thi sinh thu 1
+ma thi sinh:1
+ten thi sinh:1
+khu vuc:1
+diem 1:11
+diem 2:1
+diem 3:11
+diem uu tien:0.5
+tong diem:23.5
